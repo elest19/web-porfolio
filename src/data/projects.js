@@ -22,7 +22,7 @@ export const projects = [
       'Downloadable forms and documents',
       'Administrative dashboard'
     ],
-    image: '../assets/Web-Portal-website.png',
+    image: '/Web-Portal-website.png',
     github: 'https://github.com/elest19/PopulationOfficeWebPortal',
     demo: 'https://population-office-web-portal.vercel.app/'
   },
@@ -51,7 +51,7 @@ export const projects = [
       'Role-based authentication and authorization',
       'Dashboard with business insights'
     ],
-    image: '../assets/RCLPG-website.png',
+    image: '/RCLPG-website.png',
     github: 'https://github.com/elest19/RCLPG',
     demo: 'https://remarkable-haupia-577cca.netlify.app/login'
   },
