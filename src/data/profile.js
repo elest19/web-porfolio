@@ -29,4 +29,5 @@ export const profile = {
   github: import.meta.env.VITE_GITHUB || 'https://github.com/johndoe',
   linkedin: import.meta.env.VITE_LINKEDIN || 'https://linkedin.com/in/johndoe',
   resumeUrl: '/resume.pdf',
+  image: '../assets/Portfolio-Profile.png',
 }

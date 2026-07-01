@@ -10,7 +10,7 @@ export default function Home() {
       <PageMeta
         title={`${profile.name} | ${profile.title}`}
         description={profile.tagline}
-        image={profile.image || '/profile.jpg'}
+        image={profile.image || '../assets/Portfolio-Profile.png'}
       />
       <Hero />
 
