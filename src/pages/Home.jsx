@@ -11,7 +11,7 @@ export default function Home() {
         title={`${profile.name} | ${profile.title}`}
         description={profile.tagline}
         image="/Portfolio-Profile.png"
-      />s
+      />
       <Hero />
 
       <section
