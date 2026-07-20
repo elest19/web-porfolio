@@ -36,4 +36,18 @@ export const certifications = [
     credentials: 'https://www.linkedin.com/learning/certificates/da6bd256dfedf9be30897e617d4675c63dd1f1ec8e5a87559f9938b742ae8d97?trk=share_certificate',
     image: '/Docker-Foundations-Certificate.jpeg',
   },
+  {
+    id: 4,
+    course: 'React Foundations by Pearson Certificate',
+    provider: 'LinkedIn Learning',
+    credentials: 'https://www.linkedin.com/learning/certificates/33973a98b50d946805beeea4746fc45e4e955684385224f6ab160c57ea5732f4',
+    image: '/React-Foundations-Certificate.png',
+  },
+  {
+    id: 5,
+    course: 'SQL Essential Training by Walter Shields',
+    provider: 'LinkedIn Learning',
+    credentials: 'https://www.linkedin.com/learning/certificates/9df5f218f4a9e468aafc9e42d5a01721604c9870b11a4065cab6160e18363bb0',
+    image: '/SQL-Essential-Certificate.png',
+  }
 ]
