@@ -41,7 +41,7 @@ export const certifications = [
     course: 'React Foundations by Pearson Certificate',
     provider: 'LinkedIn Learning',
     credentials: 'https://www.linkedin.com/learning/certificates/33973a98b50d946805beeea4746fc45e4e955684385224f6ab160c57ea5732f4',
-    image: '/React-Foundations-Certificate.png',
+    image: '/React-Foundation-Certificate.png',
   },
   {
     id: 5,
