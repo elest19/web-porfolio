@@ -40,7 +40,7 @@ export const projects = [
       'REST API',
       'Supabase',
       'Render',
-      'Netlify'
+      'Vercel'
     ],
     features: [
       'Inventory and stock monitoring',
@@ -53,6 +53,6 @@ export const projects = [
     ],
     image: '/RCLPG-website.png',
     github: 'https://github.com/elest19/RCLPG',
-    demo: 'https://remarkable-haupia-577cca.netlify.app/login'
+    demo: 'https://rclpg.vercel.app/login'
   },
 ]
