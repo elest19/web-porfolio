@@ -11,7 +11,6 @@ export const profile = {
   strengths: [
     'React & JavaScript',
     'Node.js & Express',
-    'TypeScript',
     'REST APIs',
     'PostgreSQL & Supabase',
     'Git',
